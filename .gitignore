@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+src/__pycache__/
+
+# Outputs
+outputs/*
+
+# Raw & processed datasets
+data/
+
+# Block ALL CSVs anywhere in the repo
+*.csv
+**/*.csv
+
+# OS junk
+.DS_Store
