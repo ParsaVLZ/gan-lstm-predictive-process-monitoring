@@ -17,7 +17,3 @@ on widely used public process-mining datasets (e.g., **Helpdesk**).
 - Early Stopping + validation-based checkpoint selection.
 - Dataset-adaptive prefix length configuration.
 - Reported metrics: primarily **Top-1 Test Accuracy** (for events) and **MAE** (for timestamps).
-
----
-
-## Repository Structure
